@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Android developer. I develop my projects with Kotlin language. <br>My current goal is to develop further in Kotlin and Firebase.
+Android Dev. -Kotlin / Backend dev. -Java 
 
 
 ## 🌐 Socials:
